@@ -1,0 +1,11 @@
+CREATE TABLE `MYSHORTCART` ( `id` int(11) NOT NULL auto_increment, 
+			 		 		 `starttime` datetime NOT NULL default '0000-00-00 00:00:00', 
+                     		 `finishtime` datetime NOT NULL default '0000-00-00 00:00:00', 
+                     		 `trxstatus` varchar(50) NOT NULL default '0', 
+                     		 `totalamount` double NOT NULL default '0', 
+			         		 `transidmerchant` varchar(125) NOT NULL default '0', 
+                     		 `session_id` varchar(50) NOT NULL default '', 
+                     		 `response_code` varchar(50) NOT NULL default '', 
+                     		 `ptype` varchar(16) NOT NULL default '', 
+                      		 PRIMARY KEY (`id`) ) 
+                      		 ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=0;

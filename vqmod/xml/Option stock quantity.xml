@@ -1,0 +1,14 @@
+<modification>
+	<id><![CDATA[Option stock quantity]]></id>
+	<version><![CDATA[1.0.0]]></version>
+	<vqmver><![CDATA[2.3.0]]></vqmver>
+	<author><![CDATA[P. Singh]]></author>
+	<file name="/catalog/view/theme/default/template/product/product.tpl">
+		<operation>
+			<search position="after"><![CDATA[<?php echo $option_value['name']; ?>]]></search>
+			<add><![CDATA[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<?php echo $option_value['quantity']; ?>&nbsp;pcs.)]]></add>
+		</operation>
+	</file>
+	
+	
+</modification>

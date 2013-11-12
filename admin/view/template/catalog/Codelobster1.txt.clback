@@ -1,0 +1,34 @@
+[product_option_category] => Array
+        (
+            [0] => Array
+                (
+                    ['color'] => b
+                    ['size'] => s
+                    ['qty'] => 10
+                )
+
+            [1] => Array
+                (
+                    ['color'] => y
+                    ['size'] => s
+                    ['qty'] => 20
+                )
+
+            [2] => Array
+                (
+                    ['color'] => r
+                    ['size'] => l
+                    ['qty'] => 30
+                )
+
+            [3] => Array
+                (
+                    ['color'] => w
+                    ['size'] => xll
+                    ['qty'] => 40
+                )
+
+        )
+
+
+Array ( [0] => Array ( [product_options_id] => 11 [product_id] => 60 [color] => red [size] => M [quantity] => 20 [created] => 2013-08-01 14:44:14 [modified] => 2013-08-01 14:44:14 ) [1] => Array ( [product_options_id] => 12 [product_id] => 60 [color] => red [size] => L [quantity] => 20 [created] => 2013-08-01 14:44:14 [modified] => 2013-08-01 14:44:14 ) ) 
