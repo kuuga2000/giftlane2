@@ -427,9 +427,9 @@ private $error = array();
 				}
 				if($paymentError == 0)
 				{
-					if(isset($this->request->post['payment_methode']) && $this->request->post['payment_methode'] == 'CIMB')
+					if(isset($this->request->post['payment_methode']) && $this->request->post['payment_methode'] == 'MANDIRI')
 					{
-						$data['payment_method'] = 'Transfer Bank CIMB Niaga';
+						$data['payment_method'] = 'Transfer Bank MANDIRI';
 					}
 					else
 					{

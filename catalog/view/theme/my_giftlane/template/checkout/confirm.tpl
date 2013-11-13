@@ -87,15 +87,15 @@
                     <div class="pmLeft">
                     <input tabindex="7" type="radio" value="BCA" id="minimal-radio-1" name="payment_methode" <?php if($payment_methode == '' || $payment_methode == 'BCA') { ?> checked="checked" <?php } ?> />
                     <span>Transfer Bank BCA</span>
-                    <p>A/N Felicia Darmaja<br />
-                        1234 5678 9010<br />
+                    <p>A/N Felicia<br />
+                        0658-211-181<br />
                         Cab. Kelapa Gading</p>
                   </div>
                     <div class="pmLeft">
-                    <input tabindex="7" type="radio" value="CIMB" id="minimal-radio-1" name="payment_methode" <?php if($payment_methode == 'CIMB') { ?> checked="checked" <?php } ?>/>
-                    <span>Transfer Bank CIMB Niaga</span>
-                    <p>A/N Felicia Darmaja<br />
-                        1234 5678 9010<br />
+                    <input tabindex="7" type="radio" value="MANDIRI" id="minimal-radio-1" name="payment_methode" <?php if($payment_methode == 'MANDIRI') { ?> checked="checked" <?php } ?>/>
+                    <span>Transfer Bank Mandiri</span>
+                    <p>A/N Felicia<br />
+                        125-00-1166065-1<br />
                         Cab. Kelapa Gading</p>
                   </div>
 				  <div class="pmLeft">

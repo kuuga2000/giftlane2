@@ -1851,3 +1851,332 @@
 2013-11-12 10:15:02 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
 2013-11-12 10:15:02 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 16
 2013-11-12 10:15:02 - PHP Notice:  Undefined variable: scroll in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\my_home1.tpl on line 10
+2013-11-13 13:30:43 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:30:43 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 16
+2013-11-13 13:30:43 - PHP Notice:  Undefined variable: scroll in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\my_home1.tpl on line 10
+2013-11-13 13:30:49 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 209
+2013-11-13 13:30:49 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 213
+2013-11-13 13:30:51 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:30:51 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:30:52 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:30:55 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 209
+2013-11-13 13:30:55 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 213
+2013-11-13 13:30:56 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:30:57 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:31:01 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:31:01 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:31:01 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\cart.tpl on line 1026
+2013-11-13 13:31:09 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:31:09 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:31:09 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:31:09 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:31:09 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:31:09 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:31:09 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:36:49 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:36:49 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:36:49 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:36:49 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:36:49 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:36:49 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:36:49 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:36:56 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:36:56 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:36:59 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:36:59 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 487
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 494
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 584
+2013-11-13 13:36:59 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 591
+2013-11-13 13:37:03 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:03 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:08 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:08 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:10 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:10 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:12 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:12 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 487
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 494
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 584
+2013-11-13 13:37:12 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 591
+2013-11-13 13:37:14 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:14 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:16 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:16 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:16 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\address_form.tpl on line 368
+2013-11-13 13:37:16 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\address_form.tpl on line 368
+2013-11-13 13:37:16 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\address_form.tpl on line 388
+2013-11-13 13:37:20 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:20 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:25 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:25 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:28 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:28 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:32 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:32 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:34 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:34 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 487
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 494
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 584
+2013-11-13 13:37:34 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 591
+2013-11-13 13:37:38 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:38 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:40 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:40 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 464
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 487
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 494
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 564
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 584
+2013-11-13 13:37:40 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\account\billandship.tpl on line 591
+2013-11-13 13:37:46 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:46 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:49 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:37:49 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:37:49 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\cart.tpl on line 1026
+2013-11-13 13:38:02 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:38:02 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:38:02 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:38:02 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:38:02 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:38:02 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:38:02 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:39:26 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:39:26 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:39:26 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:39:26 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:39:26 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:39:26 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:39:26 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:41:31 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:41:31 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:41:31 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:41:31 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:41:31 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:41:31 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:41:31 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:41:58 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:41:58 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:42:12 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:42:12 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:42:15 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:42:15 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:42:18 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:42:18 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:42:38 - PHP Notice:  Undefined index: token in E:\xampp\htdocs\giftlane2\admin\controller\common\login.php on line 9
+2013-11-13 13:42:38 - PHP Notice:  Undefined index: token in E:\xampp\htdocs\giftlane2\admin\controller\common\login.php on line 35
+2013-11-13 13:42:38 - PHP Notice:  Undefined index: token in E:\xampp\htdocs\giftlane2\admin\controller\common\header.php on line 109
+2013-11-13 13:42:45 - PHP Notice:  Undefined index: token in E:\xampp\htdocs\giftlane2\admin\controller\common\home.php on line 363
+2013-11-13 13:42:45 - PHP Notice:  Undefined index: token in E:\xampp\htdocs\giftlane2\admin\controller\common\login.php on line 9
+2013-11-13 13:42:45 - PHP Warning:  fopen(../download/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in E:\xampp\htdocs\giftlane2\admin\controller\common\home.php on line 99
+2013-11-13 13:42:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\giftlane2\admin\controller\common\home.php on line 101
+2013-11-13 13:42:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\giftlane2\admin\controller\common\home.php on line 103
+2013-11-13 13:42:45 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in E:\xampp\htdocs\giftlane2\admin\controller\common\home.php on line 106
+2013-11-13 13:43:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:43:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:43:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:43:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
+2013-11-13 13:44:38 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:44:38 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:44:38 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:44:41 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:44:41 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:44:41 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:44:44 - PHP Notice:  Undefined index: quantity in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_model_catalog_product.php on line 1382
+2013-11-13 13:44:48 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:44:48 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:44:48 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:44:52 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:44:52 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:44:52 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:44:55 - PHP Notice:  Undefined index: quantity in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_model_catalog_product.php on line 1382
+2013-11-13 13:44:57 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:44:58 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:44:58 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:00 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:45:00 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:45:02 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:45:02 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:45:02 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:04 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:45:04 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:45:04 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:45:10 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:45:10 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:10 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\cart.tpl on line 1026
+2013-11-13 13:45:18 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:45:18 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:18 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:45:18 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:45:18 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:45:18 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:45:18 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:45:24 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:45:24 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:29 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:45:29 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:33 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:45:33 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:45:50 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:45:50 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:45:50 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:45:50 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
+2013-11-13 13:46:05 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:46:05 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:05 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:08 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:08 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:11 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:11 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:15 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:15 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:23 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:23 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:29 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:46:29 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:29 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:34 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:46:34 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:46:34 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:46:37 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:37 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:37 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\cart.tpl on line 1026
+2013-11-13 13:46:44 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:46:44 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:46:44 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:46:44 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:46:44 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:46:44 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:46:44 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:47:13 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:47:13 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:47:17 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:47:17 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:47:19 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:47:19 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:47:32 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:47:32 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:47:32 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:47:32 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
+2013-11-13 13:49:27 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:49:27 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:49:29 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:49:29 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:49:29 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:49:33 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:49:33 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:49:33 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:49:35 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 209
+2013-11-13 13:49:35 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 213
+2013-11-13 13:49:38 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 209
+2013-11-13 13:49:38 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 213
+2013-11-13 13:49:39 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:49:39 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:49:39 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:49:44 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:49:44 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:49:44 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\cart.tpl on line 1026
+2013-11-13 13:49:52 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:49:52 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:49:52 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:49:52 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:49:52 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:49:52 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:49:52 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:49:57 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:49:57 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:50:01 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:50:01 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:50:03 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:50:03 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:50:10 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:50:10 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:50:25 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:50:25 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:50:25 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:50:25 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
+2013-11-13 13:50:54 - PHP Unknown:  Object of class stdClass could not be converted to string in E:\xampp\htdocs\giftlane2\catalog\model\design\banner.php on line 10
+2013-11-13 13:50:54 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:50:54 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 50
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 57
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 66
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: maincatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 99
+2013-11-13 13:50:58 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 18
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 18
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 18
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 18
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 18
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: subCat in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 51
+2013-11-13 13:50:58 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:51:00 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 209
+2013-11-13 13:51:00 - PHP Notice:  Undefined variable: searchCatUrl in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\product\category.tpl on line 213
+2013-11-13 13:51:02 - PHP Notice:  Undefined variable: intCatId in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 73
+2013-11-13 13:51:02 - PHP Notice:  Undefined index: path in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_controller_product_product.php on line 125
+2013-11-13 13:51:03 - PHP Notice:  Undefined variable: product in E:\xampp\htdocs\giftlane2\vqmod\vqcache\vq2-catalog_view_theme_my_giftlane_template_product_product.tpl on line 601
+2013-11-13 13:51:07 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:51:07 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:51:07 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\cart.tpl on line 1026
+2013-11-13 13:51:13 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:51:13 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:51:13 - PHP Notice:  Undefined index: href in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 138
+2013-11-13 13:51:13 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:51:13 - PHP Notice:  Undefined variable: city in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 369
+2013-11-13 13:51:13 - PHP Notice:  Undefined variable: zone_id in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 389
+2013-11-13 13:51:13 - PHP Notice:  Undefined variable: text_none in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\checkout\confirm.tpl on line 396
+2013-11-13 13:51:17 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:51:17 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:51:19 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:51:19 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:51:21 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:51:21 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:51:23 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:51:23 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:51:36 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
+2013-11-13 13:52:30 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:52:30 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:52:32 - PHP Notice:  Undefined property: Document::$setDescription in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 7
+2013-11-13 13:52:32 - PHP Notice:  Undefined property: Document::$setKeywords in E:\xampp\htdocs\giftlane2\catalog\view\theme\my_giftlane\template\common\header.tpl on line 10
+2013-11-13 13:52:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1826
+2013-11-13 13:52:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1827
+2013-11-13 13:52:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1828
+2013-11-13 13:52:42 - PHP Notice:  Uninitialized string offset: 0 in E:\xampp\htdocs\giftlane2\admin\controller\sale\order.php on line 1829
