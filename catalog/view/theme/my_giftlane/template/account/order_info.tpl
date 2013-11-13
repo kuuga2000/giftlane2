@@ -19,7 +19,10 @@
 						</li>
 						<li>
 						<label>Shipping Method</label>
-						<?php echo $shipping_method; ?>
+						<?php echo $shipping_method; 
+						
+						?>
+						
 						</li>
 					</ul>
 				</div>
@@ -31,7 +34,23 @@
 						</li>
 						<li>
 						<label>Payment Method</label>
-						<?php if ($payment_method) { echo $payment_method; } ?>
+						<?php if ($payment_method) { 
+							if(strtolower($payment_method)==strtolower('Transfer Bank MANDIRI')){
+							echo $payment_method."<br>125-00-1166065-1
+							<br>
+							A.N<br>
+							Felicia
+							";
+						}elseif(strtolower($payment_method)==strtolower('Transfer Bank BCA')){
+							echo $payment_method."<br>0658-211-181
+							<br>
+							A.N<br>
+							Felicia
+							";
+							
+						}
+						
+						} ?>
 						</li>
 					</ul>
 				</div>	
