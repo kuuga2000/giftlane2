@@ -139,9 +139,10 @@ function to confirm payment of selected order
 		
 		$this->load->model('account/order');
 		if ((isset($this->request->post['order_id'])) && $this->validateForm()) {
-			//echo '<pre>';
-			//print_r($this->request->post);
-				
+			/*
+			echo '<pre>';
+			print_r($this->request->post);
+			exit;*/	
 			$this->model_account_order->processOrderPayment($this->request->post);
 			
       		$this->session->data['success'] = 'Payment has been confirmed successfully.';

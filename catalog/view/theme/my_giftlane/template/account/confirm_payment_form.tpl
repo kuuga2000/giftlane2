@@ -20,7 +20,7 @@
 			          <td ><div style="margin:10px 0px 0px 0px">Payment to</div><br>
 			            <select name="payment_to" id="payment_to">
 			                <option value="Transfer Bank BCA">Transfer Bank BCA</option>
-			                <option value="Transfer Bank CIMB Niaga">Transfer Bank CIMB Niaga</option>
+			                <option value="Transfer Bank Mandiri">Transfer Bank Mandiri</option>
 			                
 			            </select>
 			              </td>

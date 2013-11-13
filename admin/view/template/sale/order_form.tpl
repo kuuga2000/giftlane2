@@ -174,12 +174,12 @@
             </tr>
 			
 			<tr>
-				<td>Payment To</td>
+				<td>Payment To <? //=strstr($payment_to,'Transfer Bank BCA');?></td>
 				<td>
 					<select name="payment_to">
 						<option value="">Select Payment</option>
-		                <option value="Transfer Bank BCA" <?php if(strstr($payment_to,'BCA') != ''){ ?> selected="selected" <?php } ?> >Transfer Bank BCA</option>
-		                <option value="Transfer Bank CIMB Niaga" <?php if(strstr($payment_to,'CIMB') != ''){ ?> selected="selected" <?php } ?> >Transfer Bank CIMB Niaga</option>
+		                <option value="Transfer Bank BCA" <?php if(strstr($payment_to,'Transfer Bank BCA') != ''){ ?> selected="selected" <?php } ?> >Transfer Bank BCA</option>
+		                <option value="Transfer Bank Mandiri" <?php if(strstr($payment_to,'Transfer Bank Mandiri') != ''){ ?> selected="selected" <?php } ?> >Transfer Bank Mandiri</option>
 						<option value="doku" <?php if(strstr($payment_to,'doku') != ''){ ?> selected="selected" <?php } ?> >Doku</option>
 		            </select>
 				</td>
