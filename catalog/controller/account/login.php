@@ -367,8 +367,8 @@ class ControllerAccountLogin extends Controller {
 	    {
 		   $access_token = $this->request->get['access_token'];
 		   $exipires_in =  $this->request->get['expires_in'];
-		   $appId = '493283537408697';
-		   $secretKey = '1e81577db69e8f1aa1fc41f7f9c1efa4';
+		   $appId = '568600293222534';//'493283537408697';
+		   $secretKey = '7434088789678cd5db263ac13bcd8f65';//'1e81577db69e8f1aa1fc41f7f9c1efa4';
 		   if($access_token != '')
 			{
 				$facebook = new Facebook(array(

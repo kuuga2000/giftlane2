@@ -1,12 +1,19 @@
 <?php
 
-// HTTP
-define('HTTP_SERVER', 'http://localhost//giftlane2/admin/');
+// HTTP LOCAL
+/*define('HTTP_SERVER', 'http://localhost//giftlane2/admin/');
 define('HTTP_CATALOG', 'http://localhost/giftlane2/');
+*/
+//HTTP HOSTING
+define('HTTP_SERVER', 'http://giftlane.co/admin/');
+define('HTTP_CATALOG', 'http://giftlane.co/giftlane2/');
 
-// HTTPS
-define('HTTPS_SERVER', 'http://localhost/giftlane2/admin/');
+// HTTPS LOCAL
+/*define('HTTPS_SERVER', 'http://localhost/giftlane2/admin/');
 define('HTTPS_CATALOG', 'http://localhost/giftlane2/');
+*/
+define('HTTPS_SERVER', 'http://giftlane.co/admin/');
+define('HTTPS_CATALOG', 'http://giftlane.co/');
 
 // DIR
 define('DIR_APPLICATION', '../admin/');
@@ -24,9 +31,9 @@ define('DIR_CATALOG', '../catalog/');
 // DB
 define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_DATABASE', 'giftlane');
+define('DB_USERNAME', 'giftdbuser');
+define('DB_PASSWORD', 'Abc1234@');
+define('DB_DATABASE', 'giftdbuser');
 define('DB_PREFIX', 'oc_');
 
 ?>
